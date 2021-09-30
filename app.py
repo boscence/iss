@@ -1,5 +1,5 @@
 from flask import Flask
-from src import get_word, get_iss_location
+from src import get_iss_location
 app = Flask(__name__)
 
 @app.route("/")
