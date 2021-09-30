@@ -7,4 +7,7 @@ class TestOne:
         is_dict = get_iss_location()
         isinstance(is_dict,dict) 
 
+    def test_one(self):
+        assert 1 == 1
+
     
