@@ -8,6 +8,6 @@ class TestOne:
         isinstance(is_dict,dict) 
 
     def test_one(self):
-        assert 1 == 1
+        assert 2 == 2
 
     
