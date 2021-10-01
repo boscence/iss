@@ -1,5 +1,10 @@
 from flask import Flask
-from src import get_iss_location
+from .src import get_iss_location
+import sys
+
+sys.path.append(r'src/')
+
+
 app = Flask(__name__)
 
 

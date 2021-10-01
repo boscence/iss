@@ -1,10 +1,10 @@
-from devup.src.get_iss_location import get_iss_location
+from src import get_iss_location
 
 
 class TestOne:
 
     def test_iss(self):
-        is_dict = get_iss_location()
+        is_dict = get_iss_location.get_iss_location()
         isinstance(is_dict, dict)
 
     def test_one(self):
