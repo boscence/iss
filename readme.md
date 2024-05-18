@@ -1,4 +1,3 @@
-Markdown
 # Where is the ISS? 🚀
 
 [![ISS Image]](https://media.wired.com/photos/5d0015546874e00ab2efb677/master/pass/science_iss_iss056e201352.jpg)
